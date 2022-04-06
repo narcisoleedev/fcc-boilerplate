@@ -1,0 +1,3 @@
+# fcc-boilerplate 
+#### (en) My boilerplate submits to FreeCodeCamp Data Analysis Course challenges. Infos available at: https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-projects
+#### (pt) Minhas submissoes em boilerplate para os desafios do curso de Data Analysis do FreeCodeCamp. Informacoes em: https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-projects
